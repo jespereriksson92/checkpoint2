@@ -1,0 +1,5 @@
+a)git log
+
+b)git status 
+
+c)git init
